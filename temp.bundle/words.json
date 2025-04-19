@@ -1,0 +1,2410 @@
+{
+    "3": {
+        "ending": {
+            "number": 51,
+            "definition": "The last part of anything."
+        },
+        "house": {
+            "number": 52,
+            "definition": "A building for people to live in."
+        },
+        "kindly": {
+            "number": 53,
+            "definition": "Friendly."
+        },
+        "relax": {
+            "number": 54,
+            "definition": "To rest."
+        },
+        "bacon": {
+            "number": 55,
+            "definition": "Meat from the sides of a pig that has been salted and smoked."
+        },
+        "radar": {
+            "number": 56,
+            "definition": "A radio device or system for locating an object."
+        },
+        "globe": {
+            "number": 57,
+            "definition": "A round ball that has a map of the earth drawn on it."
+        },
+        "yak": {
+            "number": 58,
+            "definition": "A large blackish brown ox with long wavy hair that is used for its milk and meat and to carry heavy loads."
+        },
+        "hobby": {
+            "number": 59,
+            "definition": "Any favorite activity or interest."
+        },
+        "markers": {
+            "number": 60,
+            "definition": "Things placed to serve as a guide or to indicate position."
+        },
+        "loaf": {
+            "number": 61,
+            "definition": "A shaped or molded lump of bread."
+        },
+        "shiny": {
+            "number": 62,
+            "definition": "Bright, glittering or polished."
+        },
+        "disco": {
+            "number": 63,
+            "definition": "A type of popular dance music with strong steady rhythms and usually electronically produced sounds."
+        },
+        "sloth": {
+            "number": 64,
+            "definition": "A slow-moving brownish or grayish mammal with very long front legs and long curved claws, that hangs from branches and eats leaves and fruit."
+        },
+        "maple": {
+            "number": 65,
+            "definition": "A tree with gray back, sectioned leaves, hard wood and sap used to make syrup."
+        },
+        "wary": {
+            "number": 66,
+            "definition": "Cautious and on the lookout for danger."
+        },
+        "latch": {
+            "number": 67,
+            "definition": "To secure something against opening by using a device for holding it closed."
+        },
+        "view": {
+            "number": 68,
+            "definition": "What you can see from a place."
+        },
+        "toad": {
+            "number": 69,
+            "definition": "A small jumping animal similar to a frog but that spends more time on land and has rough, dry warty skin."
+        },
+        "family": {
+            "number": 70,
+            "definition": "A group of individuals living under one roof."
+        },
+        "type": {
+            "number": 71,
+            "definition": "To write using a keyboard."
+        },
+        "pudding": {
+            "number": 72,
+            "definition": "A sweet, creamy dessert that is soft, spongy or thick."
+        },
+        "hours": {
+            "number": 73,
+            "definition": "Period of time lasting 60 minutes."
+        },
+        "forest": {
+            "number": 74,
+            "definition": "A large area of land covered with lots of trees, shrubs and bushes."
+        },
+        "moths": {
+            "number": 75,
+            "definition": "Insects that are similar to but less colorful than butterflies and that usually fly in the late evening or at night."
+        },
+        "invent": {
+            "number": 76,
+            "definition": "To think up or imagine."
+        },
+        "swooth": {
+            "number": 77,
+            "definition": "To move with a rushing or rustling sound."
+        },
+        "object": {
+            "number": 78,
+            "definition": "A thing that can be seen or touched."
+        },
+        "plaster": {
+            "number": 79,
+            "definition": "A mix of usually sand, water and other materials that is used to coat inside walls and ceilings."
+        },
+        "lessons": {
+            "number": 80,
+            "definition": "Classes taught on a single subject."
+        },
+        "shrubs": {
+            "number": 81,
+            "definition": "Plants that have woody stems and don't grow very tall."
+        },
+        "otters": {
+            "number": 82,
+            "definition": "Dark brown, aquatic, fish-eating mammals with long tails, short legs, webbed feet and small ears."
+        },
+        "sapling": {
+            "number": 83,
+            "definition": "A young tree."
+        },
+        "tangled": {
+            "number": 84,
+            "definition": "Knotted or twisted together."
+        },
+        "quest": {
+            "number": 85,
+            "definition": "A journey to go in search of (something)."
+        },
+        "wry": {
+            "number": 86,
+            "definition": "Marked by a clever twist often with a hint of humor or sarcasm."
+        },
+        "owner": {
+            "number": 87,
+            "definition": "Someone that has something that belongs to them."
+        },
+        "pimple": {
+            "number": 88,
+            "definition": "A small, swollen and red spot on the skin."
+        },
+        "orbit": {
+            "number": 89,
+            "definition": "To travel around something (such as a planet) in a curved path."
+        },
+        "birthday": {
+            "number": 90,
+            "definition": "An anniversary of the day someone was born."
+        },
+        "royal": {
+            "number": 91,
+            "definition": "Related to or owned by the family of a king or queen."
+        },
+        "animals": {
+            "number": 92,
+            "definition": "A creatures except human beings."
+        },
+        "presto": {
+            "number": 93,
+            "definition": "Quick: immediately."
+        },
+        "splinter": {
+            "number": 94,
+            "definition": "A thin, sharp piece of something (like wood) that has broken off from a bigger piece."
+        },
+        "wrong": {
+            "number": 95,
+            "definition": "Not true, correct or right."
+        },
+        "unicorn": {
+            "number": 96,
+            "definition": "An imaginary animal that has the body of a horse, the back legs of a stag, the tail of a lion and a single horn in the middle of its head."
+        },
+        "gremlin": {
+            "number": 97,
+            "definition": "A small, mischievous gnome that is imagined to cause errors or problems with equipment."
+        },
+        "whenever": {
+            "number": 98,
+            "definition": "At any time."
+        },
+        "garbage": {
+            "number": 99,
+            "definition": "Trash of any kind."
+        },
+        "Fiji": {
+            "number": 100,
+            "definition": "An island county in the southwestern Pacific."
+        },
+        "dense": {
+            "number": 101,
+            "definition": "Crowded very close together."
+        },
+        "groan": {
+            "number": 102,
+            "definition": "A deep, sudden, unintentional sound that usually indicates pain, grief, or sometimes disapproval or annoyance."
+        },
+        "siren": {
+            "number": 103,
+            "definition": "An apparatus often electrically operated for producing a piercing warning sound of musical tones."
+        },
+        "angles": {
+            "number": 104,
+            "definition": "The directions from which someone or something is viewed, considered or approached."
+        },
+        "fend": {
+            "number": 105,
+            "definition": "To look out for oneself: manage."
+        },
+        "rubbish": {
+            "number": 106,
+            "definition": "Assorted useless, valueless waste or rejected matter: trash."
+        },
+        "tuneful": {
+            "number": 107,
+            "definition": "Having musical sound: melodious."
+        },
+        "artistic": {
+            "number": 108,
+            "definition": "Characterized by taste and judgement or by art and skill."
+        },
+        "squishy": {
+            "number": 109,
+            "definition": "Being soft, yielding and damp."
+        },
+        "clumsy": {
+            "number": 110,
+            "definition": "Not having ease in using the hands, skill, nimbleness or grace, such as in the use of the body or limbs or in the performance of an action."
+        },
+        "kibble": {
+            "number": 111,
+            "definition": "Coarsely ground dried food products or grain."
+        },
+        "cues": {
+            "number": 112,
+            "definition": "Signals (such as words or bits of stage business) to a performance to begin a specific speech or action."
+        },
+        "boasted": {
+            "number": 113,
+            "definition": "Said or told something intended to give others a high opinion of yourself: bragged."
+        },
+        "prayer": {
+            "number": 114,
+            "definition": "An address (such as a petition or confession) to God or a god in word or thought."
+        },
+        "tireless": {
+            "number": 115,
+            "definition": "Seemingly not able to become weary or have your strength decrease or fail."
+        },
+        "factory": {
+            "number": 116,
+            "definition": "A building or collection of buildings with facilities (such as machines) for making goods often from new materials."
+        },
+        "borrowed": {
+            "number": 117,
+            "definition": "Received something (such as a book) from a library to use outside the library for a period of time."
+        },
+        "shavings": {
+            "number": 118,
+            "definition": "Thin strips of wood pared off by a tool for smoothing or shaping wood."
+        },
+        "poodles": {
+            "number": 119,
+            "definition": "Dogs of an old European breed of active, intelligent dogs that have a curly, dense, solid-colored coat and are grouped into standard, miniature and toy sizes."
+        },
+        "gravity": {
+            "number": 120,
+            "definition": "The tendency or state of being drawn to the mass of something in the sky (such as the earth, the moon or a planet) for bodies at or near its surface."
+        },
+        "abnormal": {
+            "number": 121,
+            "definition": "Differing from the typical."
+        },
+        "sneakers": {
+            "number": 122,
+            "definition": "Shoes usually of canvas with flexible rubber soles worn especially for sports or hiking."
+        },
+        "clackle": {
+            "number": 123,
+            "definition": "To make small, sharp, sudden noises repeatedly."
+        },
+        "inspire": {
+            "number": 124,
+            "definition": "To encourage or motivate."
+        },
+        "pleats": {
+            "number": 125,
+            "definition": "Folds in cloth made by doubling material over on itself and that is stitched, attached or held along one side."
+        },
+        "shivery": {
+            "number": 126,
+            "definition": "Frigid, cold."
+        },
+        "briefing": {
+            "number": 127,
+            "definition": "The process of being given usually essential information typically in little time and without unnecessary details."
+        },
+        "obtain": {
+            "number": 128,
+            "definition": "To gain possession or disposal of usually by some planned action or method."
+        },
+        "portray": {
+            "number": 129,
+            "definition": "To represent by drawing, painting or cutting something into the surface of a material."
+        },
+        "squeeze": {
+            "number": 130,
+            "definition": "To exert pressure especially on opposite sides or parts of: press together closely or tightly."
+        },
+        "rumbling": {
+            "number": 131,
+            "definition": "Making a low, heavy rolling sound."
+        },
+        "gangplank": {
+            "number": 132,
+            "definition": "A long, narrow, movable platform or bridge used to get on or off a ship (as from a wharf)."
+        },
+        "scratched": {
+            "number": 133,
+            "definition": "Scraped or rubbed lightly with something pointed or rough in order to relieve itching."
+        },
+        "distorted": {
+            "number": 134,
+            "definition": "Twisted out of a natural, normal or original shape or condition."
+        },
+        "cardboard": {
+            "number": 135,
+            "definition": "A stiff, thick kind of paper that sometimes has a coating and that can be used to make signs or for printed material."
+        },
+        "interviews": {
+            "number": 136,
+            "definition": "Questions or talks with especially in order to gain information or learn personal qualities."
+        },
+        "guilty": {
+            "number": 137,
+            "definition": "Justly chargeable with or responsible for a fault or crime."
+        },
+        "lunar": {
+            "number": 138,
+            "definition": "Of, taking place on or relating to the moon."
+        },
+        "custard": {
+            "number": 139,
+            "definition": "A sweetened mixture of milk and eggs that is baked, boiled or frozen."
+        },
+        "shriek": {
+            "number": 140,
+            "definition": "A shrill, usually wild or unintentional cry ( as of sudden or extreme terror or pain or of violent laughter)."
+        },
+        "ghost": {
+            "number": 141,
+            "definition": "A supernatural appearance: apparition."
+        },
+        "mission": {
+            "number": 142,
+            "definition": "A specific task with which a person or group is charged."
+        },
+        "tempting": {
+            "number": 143,
+            "definition": "Alluring enticing."
+        },
+        "majestic": {
+            "number": 144,
+            "definition": "Having, exhibiting, or marked by magnificent or commanding power, effect, or appearance: regal."
+        },
+        "solution": {
+            "number": 145,
+            "definition": "An answer or gestures made to give warning or command."
+        },
+        "signals": {
+            "number": 146,
+            "definition": "Sounds or gesture made to give warning or command."
+        },
+        "eliminate": {
+            "number": 147,
+            "definition": "To get rid of."
+        },
+        "universe": {
+            "number": 148,
+            "definition": "The entire celestial cosmos."
+        },
+        "locusts": {
+            "number": 149,
+            "definition": "Migratory grasshoppers that often travel in vast swarms and strip the areas they travel through of all vegetation."
+        },
+        "guidance": {
+            "number": 150,
+            "definition": "Advice in choosing courses, preparing for a line of work or further education, or coping with personal problems given to students by a teacher or a professional counselor."
+        }
+    },
+    "4": {
+        "barograph": {
+            "number": 151,
+            "definition": "An automatic instrument which is used to record variation in atmospheric pressure."
+        },
+        "charred": {
+            "number": 152,
+            "definition": "Partly burned on the outside."
+        },
+        "Pakistan": {
+            "number": 153,
+            "definition": "A country in southern Asia which borders the Arabian Sea."
+        },
+        "pressure": {
+            "number": 154,
+            "definition": "The burden of mental or physical distress."
+        },
+        "surmised": {
+            "number": 155,
+            "definition": "Guessed: formed an opinion without substantial proof or certain knowledge."
+        },
+        "teak": {
+            "number": 156,
+            "definition": "The hard, strong, durable, yellowish brown wood of a tall East Indian timber tree which is highly resistant to insect attack and warping and is used for shipbuilding."
+        },
+        "transit": {
+            "number": 157,
+            "definition": "The public transportation of people by bus, subway train or other local system of conveyance."
+        },
+        "cannonade": {
+            "number": 158,
+            "definition": "A noisy persistent attack (as of questions)."
+        },
+        "appetite": {
+            "number": 159,
+            "definition": "The desire to eat when food is available."
+        },
+        "luggage": {
+            "number": 160,
+            "definition": "suitcases, bags used for travel or other articles used to carry a traveler's belongings."
+        },
+        "ramparts": {
+            "number": 161,
+            "definition": "Protective barriers,"
+        },
+        "vinyl": {
+            "number": 162,
+            "definition": "Any of a group of tough durable plastics based on resins that are used especially in the forming of films and sheering, flooring, and sound records."
+        },
+        "anemometers": {
+            "number": 163,
+            "definition": "Tools used to gauge the speed of the wind."
+        },
+        "dainty": {
+            "number": 164,
+            "definition": "Characterized by beauty that is delicate in nature."
+        },
+        "buckle": {
+            "number": 165,
+            "definition": "To secure two loose ends of something (such as a belt) with one end having a fastening and the other a catch."
+        },
+        "vividly": {
+            "number": 166,
+            "definition": "Intesely, sharply, keenly."
+        },
+        "briny": {
+            "number": 167,
+            "definition": "Salty."
+        },
+        "pavement": {
+            "number": 168,
+            "definition": "The surface of a public thoroughfare which is artificially covered."
+        },
+        "garnet": {
+            "number": 169,
+            "definition": "A brittle material which is typically red in color and occurs mainly in crystals."
+        },
+        "furrow": {
+            "number": 170,
+            "definition": "To cultivate or till as if with plow."
+        },
+        "sprawl": {
+            "number": 171,
+            "definition": "To lie or sit with arms and legs stretched out: to spread out."
+        },
+        "museum": {
+            "number": 172,
+            "definition": "A building or institution which is devoted to the gethering, care, study and display of objects of lasting interest and value."
+        },
+        "wren": {
+            "number": 173,
+            "definition": "Any of various small brown singing birds."
+        },
+        "legend": {
+            "number": 174,
+            "definition": "someone having a special status as a result of possessing extraordinary qualities that are typically partly read and party mythical."
+        },
+        "transistor": {
+            "number": 175,
+            "definition": "An electronic device made of a small block of a semiconductor with three electrodes on it and that conducts electrons moving in one direction to the opposite direction."
+        },
+        "amplify": {
+            "number": 176,
+            "definition": "To expand, extend or enlarge a statement or idea by adding details or illustration."
+        },
+        "security": {
+            "number": 177,
+            "definition": "Freedom from care, anxiety or fear."
+        },
+        "refrain": {
+            "number": 178,
+            "definition": "A phrase or verse that recurs regularly typically within a poem or song."
+        },
+        "tactics": {
+            "number": 179,
+            "definition": "Methods: systems of procedure."
+        },
+        "shepherd": {
+            "number": 180,
+            "definition": "A man employed in tendin, feeding and guarding sheep."
+        },
+        "Angus": {
+            "number": 181,
+            "definition": "Any of a breed of hornless black or red beef cattle originally from Scotland."
+        },
+        "mulish": {
+            "number": 182,
+            "definition": "Stubborn, inflexible or uncompromising."
+        },
+        "rivalry": {
+            "number": 183,
+            "definition": "Competition."
+        },
+        "siblings": {
+            "number": 184,
+            "definition": "Two or more people with the same parents."
+        },
+        "chestnut": {
+            "number": 185,
+            "definition": "Any of a genus of deciduous trees or shrubs native to temperate regions of the northen hemisphere that have a fruit consisting of a single nut."
+        },
+        "minivan": {
+            "number": 186,
+            "definition": "A small multipurpose vehicle with rear or side doors and side panels with windows that is used to transport passengers."
+        },
+        "plaid": {
+            "number": 187,
+            "definition": "Having a corss-barred multicolored pattern."
+        },
+        "tissue": {
+            "number": 188,
+            "definition": "An aggregate of cells together with their intercellular substance that form one of the structual materials out of which the body of a plant or an animal is made."
+        },
+        "scoundrel": {
+            "number": 189,
+            "definition": "A bold selfish person who is equipped with low ethical standards."
+        },
+        "amino": {
+            "number": 190,
+            "definition": "Relating to or containing the group NH2 united to a radical other than an acid radical."
+        },
+        "menthol": {
+            "number": 191,
+            "definition": "An alcohol that occurs naturally in peppermint oil and Japanese mint oil and can be made artificially."
+        },
+        "Tabasco": {
+            "number": 192,
+            "definition": "- Used for a condiment sauce made from capsicum berries."
+        },
+        "obvious": {
+            "number": 193,
+            "definition": "Easily perceived by the mind."
+        },
+        "pulse": {
+            "number": 194,
+            "definition": "A regular wave of distension in the arteries that is a result of blood progressing through an artery at each contraction of the ventricles of the heart."
+        },
+        "cottage": {
+            "number": 195,
+            "definition": "A small house typically used in the teeth."
+        },
+        "garland": {
+            "number": 196,
+            "definition": "A wreath of leaves or flowers that is worn on the head or used for decoration."
+        },
+        "gnaw": {
+            "number": 197,
+            "definition": "To bite or chew on with the teeth."
+        },
+        "comfort": {
+            "number": 198,
+            "definition": "Enjoyment in physical or mental well-being."
+        },
+        "caroling": {
+            "number": 199,
+            "definition": "Traveling outside in a group to sing Christmas songs on Christmas Eve."
+        },
+        "foolishness": {
+            "number": 200,
+            "definition": "The state of lacking seriousness: folly."
+        },
+        "constellation": {
+            "number": 201,
+            "definition": "Any of the 88 configurations of stars."
+        },
+        "sundering": {
+            "number": 202,
+            "definition": "Breaking or forcing apart."
+        },
+        "juncture": {
+            "number": 203,
+            "definition": "A seam or joint."
+        },
+        "exploits": {
+            "number": 204,
+            "definition": "Takes undue advantage of."
+        },
+        "rabble-rouser": {
+            "number": 205,
+            "definition": "A person who stirs up the masses of the people (such as to violence or hatred)."
+        },
+        "profound": {
+            "number": 206,
+            "definition": "Hard to understand or comprehend."
+        },
+        "wreath": {
+            "number": 207,
+            "definition": "A crown or band of intertwined flowers or leaves worn or given as a mark of honer."
+        },
+        "profile": {
+            "number": 208,
+            "definition": "A representation of something in outline."
+        },
+        "untoward": {
+            "number": 209,
+            "definition": "Unfortunate or unlucky."
+        },
+        "memorial": {
+            "number": 210,
+            "definition": "Commemorative."
+        },
+        "industrial": {
+            "number": 211,
+            "definition": "Of or belonging to a department of a craft, business or manufacture."
+        },
+        "barrier": {
+            "number": 212,
+            "definition": "An object or objects that serve to separate or keep items apart."
+        },
+        "gratingly": {
+            "number": 213,
+            "definition": "With an irritating or harsh effect or sound."
+        },
+        "brayed": {
+            "number": 214,
+            "definition": "Made a loud harsh cry - used of a donkey."
+        },
+        "Harlem": {
+            "number": 215,
+            "definition": "Section of New York City in northern Manhattan that was a center of African American culture in the 1920s."
+        },
+        "messenger": {
+            "number": 216,
+            "definition": "Someone who delivers a written or oral communication: a courier."
+        },
+        "beacons": {
+            "number": 217,
+            "definition": "Fires placed on a hill or tower that are used to communicate signals."
+        },
+        "generation": {
+            "number": 218,
+            "definition": "Development, rise."
+        },
+        "coverage": {
+            "number": 219,
+            "definition": "The amount of reporting given to a news event."
+        },
+        "deters": {
+            "number": 220,
+            "definition": "Turns aside or discourages from acting."
+        },
+        "Nepal": {
+            "number": 221,
+            "definition": "Landlocked country in Asia in the Himalayas on the northeast border of India."
+        },
+        "disinfectant": {
+            "number": 222,
+            "definition": "A chemical taht destroys vegetative forms of harmful miscoorganisms."
+        },
+        "campaign": {
+            "number": 223,
+            "definition": "A period of continuous and often competitive activity in any seasonal occupation or industry."
+        },
+        "starvation": {
+            "number": 224,
+            "definition": "The instatnce of suffering from extreme hunger."
+        },
+        "gamma": {
+            "number": 225,
+            "definition": "The third letter of the Greek alphabet."
+        },
+        "spleen": {
+            "number": 226,
+            "definition": "An abdominal organ that plays a role in the maintenance of blood volume, the production of blood cells, the recovery of material from worn-out blood cells and the production of antibodies."
+        },
+        "utensils": {
+            "number": 227,
+            "definition": "Tools or instruments used in a kitchen."
+        },
+        "depot": {
+            "number": 228,
+            "definition": "A bus station."
+        },
+        "incident": {
+            "number": 229,
+            "definition": "An uncommon happening."
+        },
+        "brambles": {
+            "number": 230,
+            "definition": "Pricky and rough vines or shrubs."
+        },
+        "trifecta": {
+            "number": 231,
+            "definition": "A bet in which the better selects the first, second and third finishers in a contest or race in the correct order."
+        },
+        "shingle": {
+            "number": 232,
+            "definition": "Coarse and rounded detritus found on the seashore and which is different from regular gravel due to its large size."
+        },
+        "mason": {
+            "number": 233,
+            "definition": "A skilled artisan who builds using stone, brick or concrete."
+        },
+        "avoid": {
+            "number": 234,
+            "definition": "To stay clear of: to keep away from."
+        },
+        "static": {
+            "number": 235,
+            "definition": "stable, stagnant."
+        },
+        "samples": {
+            "number": 236,
+            "definition": "Portions to represent a whole."
+        },
+        "modern": {
+            "number": 237,
+            "definition": "Contemporary: relating to the present time."
+        },
+        "chalk": {
+            "number": 238,
+            "definition": "The prepared form of a soft limestone, earthy in texture and white, gray or buff in color used for marking or drawing."
+        },
+        "concentrate": {
+            "number": 239,
+            "definition": "To bring all one's powers, faculties or activities to bear."
+        },
+        "proud": {
+            "number": 240,
+            "definition": "Elated: highly pleased."
+        },
+        "expiration": {
+            "number": 241,
+            "definition": "Termination, close, extinction."
+        },
+        "batteries": {
+            "number": 242,
+            "definition": "Level of enthusiasm or energy."
+        },
+        "centuries": {
+            "number": 243,
+            "definition": "Time spans of 100 years."
+        },
+        "differed": {
+            "number": 244,
+            "definition": "Varied: changed from time to time."
+        },
+        "fearsome": {
+            "number": 245,
+            "definition": "Arousing from fright or terror."
+        },
+        "fiercest": {
+            "number": 246,
+            "definition": "Characterized by the most furious unrestrained vehemence or zeal."
+        },
+        "residence": {
+            "number": 247,
+            "definition": "The place where one lives or has their home."
+        },
+        "abated": {
+            "number": 248,
+            "definition": "Lessened: decreased in force."
+        },
+        "scattering": {
+            "number": 249,
+            "definition": "Spreading widely and randomly by throwing about."
+        },
+        "toppled": {
+            "number": 250,
+            "definition": "Tumbled down: fell from top-heaviness."
+        }
+    },
+    "5": {
+        "whimper": {
+            "number": 251,
+            "definition": "to whine softly."
+        },
+        "bracelet": {
+            "number": 252,
+            "definition": "a chain worn around the wrist for ornamentation."
+        },
+        "inwardly": {
+            "number": 253,
+            "definition": "internally: privately to one's self."
+        },
+        "mobility": {
+            "number": 254,
+            "definition": "the ease with which a person or thing can move."
+        },
+        "eddy": {
+            "number": 255,
+            "definition": "a small swirl of air or water moving against the main current."
+        },
+        "fanged": {
+            "number": 256,
+            "definition": "having the long sharp teeth of certain predatory animals, or being shaped like such teeth."
+        },
+        "bough": {
+            "number": 257,
+            "definition": "a tree branch."
+        },
+        "listlessly": {
+            "number": 258,
+            "definition": "in a spiritless, languid manner."
+        },
+        "cautioned": {
+            "number": 259,
+            "definition": "warned about a danger."
+        },
+        "flurry": {
+            "number": 260,
+            "definition": "an instance of many things happening at once."
+        },
+        "glisten": {
+            "number": 261,
+            "definition": "to shine: to sparkle."
+        },
+        "accuse": {
+            "number": 262,
+            "definition": "to charge with a wrong."
+        },
+        "drowsy": {
+            "number": 263,
+            "definition": "sleepy"
+        },
+        "scoff": {
+            "number": 264,
+            "definition": "to speak with contempt or ridicule."
+        },
+        "opposite": {
+            "number": 265,
+            "definition": "contrary: utterly different."
+        },
+        "instrument": {
+            "number": 266,
+            "definition": "a device that is used to make music."
+        },
+        "blissfully": {
+            "number": 267,
+            "definition": "in a manner indicating absolute happiness."
+        },
+        "coarse": {
+            "number": 268,
+            "definition": "rough or crude in form or design."
+        },
+        "activists": {
+            "number": 269,
+            "definition": "people who agitate and organize to achieve particular political goals."
+        },
+        "commute": {
+            "number": 270,
+            "definition": "to journey back and forth between locations often or regularly."
+        },
+        "cocoa": {
+            "number": 271,
+            "definition": "a warm drink of chocorate powder and water or milk."
+        },
+        "nutrients": {
+            "number": 272,
+            "definition": "substances that nourish or promote growth or development."
+        },
+        "scarcely": {
+            "number": 273,
+            "definition": "just barely."
+        },
+        "stretcher": {
+            "number": 274,
+            "definition": "a carrying device used to transport the dead, sick, or injured."
+        },
+        "lairs": {
+            "number": 275,
+            "definition": "places where wild animals live."
+        },
+        "hybrid": {
+            "number": 276,
+            "definition": "having a blend of traits from two different traditions or cultures."
+        },
+        "mustard": {
+            "number": 277,
+            "definition": "a strong yellow condiment made of crushed seeds made into a paste."
+        },
+        "cruel": {
+            "number": 278,
+            "definition": "stern, harsh, and without pity or softness."
+        },
+        "schedule": {
+            "number": 279,
+            "definition": "a list of events or activities marked with when each will take place."
+        },
+        "goblins": {
+            "number": 280,
+            "definition": "fairy creatures, generally ugly and threatening."
+        },
+        "splutter": {
+            "number": 281,
+            "definition": "to speak in a hasty or confused fashion."
+        },
+        "convince": {
+            "number": 282,
+            "definition": "to get someone to agree or believe by arguing a point."
+        },
+        "grateful": {
+            "number": 283,
+            "definition": "expressing gratitude: wanting to give thanks."
+        },
+        "gesture": {
+            "number": 284,
+            "definition": "a movement of the body that communicates an idea."
+        },
+        "formation": {
+            "number": 285,
+            "definition": "a group of troops arranged in a particular order."
+        },
+        "previous": {
+            "number": 286,
+            "definition": "occurring earlier or before."
+        },
+        "imposing": {
+            "number": 287,
+            "definition": "commanding attention due to magnificence, stature, size, or scope."
+        },
+        "complicated": {
+            "number": 288,
+            "definition": "not easy to understand."
+        },
+        "unnoticed": {
+            "number": 289,
+            "definition": "not observed or recognized."
+        },
+        "agreement": {
+            "number": 290,
+            "definition": "a plan or course of action that two or more people have decided upon."
+        },
+        "dappled": {
+            "number": 291,
+            "definition": "spotted or speckled."
+        },
+        "rustle": {
+            "number": 292,
+            "definition": "to cause low, distinct sounds by moving."
+        },
+        "chef": {
+            "number": 293,
+            "definition": "a skilled cook who leads a kitchen, its staff, and its operation in a restaurant or other business."
+        },
+        "crease": {
+            "number": 294,
+            "definition": "a line or groove left in a flexible material through folding."
+        },
+        "whales": {
+            "number": 295,
+            "definition": "very large aquatic mammals that look like fish."
+        },
+        "mislead": {
+            "number": 296,
+            "definition": "to guide in an incorrect direction or into a mistaken belief or action: to deceive."
+        },
+        "subtitles": {
+            "number": 297,
+            "definition": "written translations of foreign language dialogue projected at the bottom of the screen of a motion picture."
+        },
+        "fragment": {
+            "number": 298,
+            "definition": "a portion broken off from a whole."
+        },
+        "retreat": {
+            "number": 299,
+            "definition": "to fall back or retire from a position."
+        },
+        "implore": {
+            "number": 300,
+            "definition": "to beseech."
+        }
+    },
+    "6": {
+        "wide": {
+            "number": 301,
+            "definition": "having the length from side to side of a specific size."
+        },
+        "part": {
+            "number": 302,
+            "definition": "something less than a whole."
+        },
+        "mink": {
+            "number": 303,
+            "definition": "any of several slender-bodied semiaquatic carnivorous mammals that resemble and are closely related to the weasels."
+        },
+        "tummy": {
+            "number": 304,
+            "definition": "\"abdomen, belly, stomach.\""
+        },
+        "goods": {
+            "number": 305,
+            "definition": "evidence or proof of wrongdoing."
+        },
+        "nook": {
+            "number": 306,
+            "definition": "a secluded or out-of-the-way place or part."
+        },
+        "jelly": {
+            "number": 307,
+            "definition": "a dessert made usually by adding gelatin to fruit juices."
+        },
+        "slow": {
+            "number": 308,
+            "definition": "exhibiting or characterized by delayed motion or speed."
+        },
+        "tufts": {
+            "number": 309,
+            "definition": "small bunches of hairs on the body."
+        },
+        "cold": {
+            "number": 310,
+            "definition": "having a temperature notably below that compatible with human comfort."
+        },
+        "lane": {
+            "number": 311,
+            "definition": "a narrow passageway between fences or hedges that is not traveled as a main road."
+        },
+        "son": {
+            "number": 312,
+            "definition": "the male offspring of human beings."
+        },
+        "same": {
+            "number": 313,
+            "definition": "having one nature or individuality : of like nature or identity : identical."
+        },
+        "much": {
+            "number": 314,
+            "definition": "a great deal."
+        },
+        "deer": {
+            "number": 315,
+            "definition": "\"a wild animal with brown fur, four long thin legs and hooves, and with antlers on the males.\""
+        },
+        "silk": {
+            "number": 316,
+            "definition": "*"
+        },
+        "cove": {
+            "number": 317,
+            "definition": "*"
+        },
+        "thing": {
+            "number": 318,
+            "definition": "*"
+        },
+        "try": {
+            "number": 319,
+            "definition": "*"
+        },
+        "duckling": {
+            "number": 320,
+            "definition": "*"
+        },
+        "mask": {
+            "number": 321,
+            "definition": "*"
+        },
+        "hike": {
+            "number": 322,
+            "definition": "*"
+        },
+        "car": {
+            "number": 323,
+            "definition": "*"
+        },
+        "rage": {
+            "number": 324,
+            "definition": "*"
+        },
+        "gift": {
+            "number": 325,
+            "definition": "*"
+        },
+        "very": {
+            "number": 326,
+            "definition": "*"
+        },
+        "last": {
+            "number": 327,
+            "definition": "*"
+        },
+        "well": {
+            "number": 328,
+            "definition": "*"
+        },
+        "mess": {
+            "number": 329,
+            "definition": "*"
+        },
+        "left": {
+            "number": 330,
+            "definition": "*"
+        },
+        "rush": {
+            "number": 331,
+            "definition": "*"
+        },
+        "gone": {
+            "number": 332,
+            "definition": "*"
+        },
+        "drill": {
+            "number": 333,
+            "definition": "*"
+        },
+        "meet": {
+            "number": 334,
+            "definition": "*"
+        },
+        "lid": {
+            "number": 335,
+            "definition": "*"
+        },
+        "lisp": {
+            "number": 336,
+            "definition": "*"
+        },
+        "post": {
+            "number": 337,
+            "definition": "*"
+        },
+        "bent": {
+            "number": 338,
+            "definition": "*"
+        },
+        "mice": {
+            "number": 339,
+            "definition": "*"
+        },
+        "rope": {
+            "number": 340,
+            "definition": "*"
+        },
+        "logs": {
+            "number": 341,
+            "definition": "*"
+        },
+        "hat": {
+            "number": 342,
+            "definition": "*"
+        },
+        "swim": {
+            "number": 343,
+            "definition": "*"
+        },
+        "read": {
+            "number": 344,
+            "definition": "*"
+        },
+        "upon": {
+            "number": 345,
+            "definition": "*"
+        },
+        "idea": {
+            "number": 346,
+            "definition": "*"
+        },
+        "singing": {
+            "number": 347,
+            "definition": "*"
+        },
+        "kites": {
+            "number": 348,
+            "definition": "*"
+        },
+        "feet": {
+            "number": 349,
+            "definition": "*"
+        },
+        "must": {
+            "number": 350,
+            "definition": "*"
+        },
+        "turning": {
+            "number": 351,
+            "definition": "*"
+        },
+        "wanted": {
+            "number": 352,
+            "definition": "*"
+        },
+        "sprung": {
+            "number": 353,
+            "definition": "*"
+        },
+        "zoomed": {
+            "number": 354,
+            "definition": "*"
+        },
+        "large": {
+            "number": 355,
+            "definition": "*"
+        },
+        "closed": {
+            "number": 356,
+            "definition": "*"
+        },
+        "plates": {
+            "number": 357,
+            "definition": "*"
+        },
+        "matching": {
+            "number": 358,
+            "definition": "*"
+        },
+        "track": {
+            "number": 359,
+            "definition": "*"
+        },
+        "chart": {
+            "number": 360,
+            "definition": "*"
+        },
+        "bread": {
+            "number": 361,
+            "definition": "*"
+        },
+        "clock": {
+            "number": 362,
+            "definition": "*"
+        },
+        "crusts": {
+            "number": 363,
+            "definition": "*"
+        },
+        "pain": {
+            "number": 364,
+            "definition": "*"
+        },
+        "loud": {
+            "number": 365,
+            "definition": "*"
+        },
+        "flapped": {
+            "number": 366,
+            "definition": "*"
+        },
+        "cell": {
+            "number": 367,
+            "definition": "*"
+        },
+        "cheese": {
+            "number": 368,
+            "definition": "*"
+        },
+        "beak": {
+            "number": 369,
+            "definition": "*"
+        },
+        "cog": {
+            "number": 370,
+            "definition": "*"
+        },
+        "poor": {
+            "number": 371,
+            "definition": "*"
+        },
+        "power": {
+            "number": 372,
+            "definition": "*"
+        },
+        "foam": {
+            "number": 373,
+            "definition": "*"
+        },
+        "clutch": {
+            "number": 374,
+            "definition": "*"
+        },
+        "knife": {
+            "number": 375,
+            "definition": "*"
+        },
+        "place": {
+            "number": 376,
+            "definition": "*"
+        },
+        "oil": {
+            "number": 377,
+            "definition": "*"
+        },
+        "gushed": {
+            "number": 378,
+            "definition": "*"
+        },
+        "china": {
+            "number": 379,
+            "definition": "*"
+        },
+        "stopped": {
+            "number": 380,
+            "definition": "*"
+        },
+        "also": {
+            "number": 381,
+            "definition": "*"
+        },
+        "floor": {
+            "number": 382,
+            "definition": "*"
+        },
+        "frames": {
+            "number": 383,
+            "definition": "*"
+        },
+        "studied": {
+            "number": 384,
+            "definition": "*"
+        },
+        "spikes": {
+            "number": 385,
+            "definition": "*"
+        },
+        "speech": {
+            "number": 386,
+            "definition": "*"
+        },
+        "shoe": {
+            "number": 387,
+            "definition": "*"
+        },
+        "prize": {
+            "number": 388,
+            "definition": "*"
+        },
+        "smug": {
+            "number": 389,
+            "definition": "*"
+        },
+        "rapids": {
+            "number": 390,
+            "definition": "*"
+        },
+        "slide": {
+            "number": 391,
+            "definition": "*"
+        },
+        "goals": {
+            "number": 392,
+            "definition": "*"
+        },
+        "shelter": {
+            "number": 393,
+            "definition": "*"
+        },
+        "creak": {
+            "number": 394,
+            "definition": "*"
+        },
+        "gutter": {
+            "number": 395,
+            "definition": "*"
+        },
+        "booth": {
+            "number": 396,
+            "definition": "*"
+        },
+        "frankly": {
+            "number": 397,
+            "definition": "*"
+        },
+        "knot": {
+            "number": 398,
+            "definition": "*"
+        },
+        "search": {
+            "number": 399,
+            "definition": "*"
+        },
+        "crouched": {
+            "number": 400,
+            "definition": "*"
+        },
+        "found": {
+            "number": 401,
+            "definition": "*"
+        },
+        "gloves": {
+            "number": 402,
+            "definition": "*"
+        },
+        "pretty": {
+            "number": 403,
+            "definition": "*"
+        },
+        "baskets": {
+            "number": 404,
+            "definition": "*"
+        },
+        "bonnet": {
+            "number": 405,
+            "definition": "*"
+        },
+        "rodeo": {
+            "number": 406,
+            "definition": "*"
+        },
+        "salad": {
+            "number": 407,
+            "definition": "*"
+        },
+        "cousin": {
+            "number": 408,
+            "definition": "*"
+        },
+        "camera": {
+            "number": 409,
+            "definition": "*"
+        },
+        "wrenches": {
+            "number": 410,
+            "definition": "*"
+        },
+        "goggles": {
+            "number": 411,
+            "definition": "*"
+        },
+        "inflate": {
+            "number": 412,
+            "definition": "*"
+        },
+        "single": {
+            "number": 413,
+            "definition": "*"
+        },
+        "polish": {
+            "number": 414,
+            "definition": "*"
+        },
+        "dolphin": {
+            "number": 415,
+            "definition": "*"
+        },
+        "skiing": {
+            "number": 416,
+            "definition": "*"
+        },
+        "Texas": {
+            "number": 417,
+            "definition": "*"
+        },
+        "mumble": {
+            "number": 418,
+            "definition": "*"
+        },
+        "direct": {
+            "number": 419,
+            "definition": "*"
+        },
+        "detail": {
+            "number": 420,
+            "definition": "*"
+        },
+        "alas": {
+            "number": 421,
+            "definition": "*"
+        },
+        "barrels": {
+            "number": 422,
+            "definition": "*"
+        },
+        "clerks": {
+            "number": 423,
+            "definition": "*"
+        },
+        "forty": {
+            "number": 424,
+            "definition": "*"
+        },
+        "embers": {
+            "number": 425,
+            "definition": "*"
+        },
+        "paddles": {
+            "number": 426,
+            "definition": "*"
+        },
+        "whiskers": {
+            "number": 427,
+            "definition": "*"
+        },
+        "condition": {
+            "number": 428,
+            "definition": "*"
+        },
+        "slumped": {
+            "number": 429,
+            "definition": "*"
+        },
+        "blurted": {
+            "number": 430,
+            "definition": "*"
+        },
+        "wallet": {
+            "number": 431,
+            "definition": "*"
+        },
+        "focus": {
+            "number": 432,
+            "definition": "*"
+        },
+        "circus": {
+            "number": 433,
+            "definition": "*"
+        },
+        "aware": {
+            "number": 434,
+            "definition": "*"
+        },
+        "mango": {
+            "number": 435,
+            "definition": "*"
+        },
+        "firmly": {
+            "number": 436,
+            "definition": "*"
+        },
+        "imagined": {
+            "number": 437,
+            "definition": "*"
+        },
+        "reveal": {
+            "number": 438,
+            "definition": "*"
+        },
+        "ached": {
+            "number": 439,
+            "definition": "*"
+        },
+        "fabric": {
+            "number": 440,
+            "definition": "*"
+        },
+        "detour": {
+            "number": 441,
+            "definition": "*"
+        },
+        "impolite": {
+            "number": 442,
+            "definition": "*"
+        },
+        "squiggles": {
+            "number": 443,
+            "definition": "*"
+        },
+        "because": {
+            "number": 444,
+            "definition": "*"
+        },
+        "teachers": {
+            "number": 445,
+            "definition": "*"
+        },
+        "ordinary": {
+            "number": 446,
+            "definition": "*"
+        },
+        "capture": {
+            "number": 447,
+            "definition": "*"
+        },
+        "feline": {
+            "number": 448,
+            "definition": "*"
+        },
+        "gusto": {
+            "number": 449,
+            "definition": "*"
+        },
+        "kitchen": {
+            "number": 450,
+            "definition": "*"
+        },
+        "cleat": {
+            "number": 451,
+            "definition": "*"
+        },
+        "bustling": {
+            "number": 452,
+            "definition": "*"
+        },
+        "scarf": {
+            "number": 453,
+            "definition": "*"
+        },
+        "surface": {
+            "number": 454,
+            "definition": "*"
+        },
+        "Nile": {
+            "number": 455,
+            "definition": "*"
+        },
+        "scrolls": {
+            "number": 456,
+            "definition": "*"
+        },
+        "shimmery": {
+            "number": 457,
+            "definition": "*"
+        },
+        "indent": {
+            "number": 458,
+            "definition": "*"
+        },
+        "sitcom": {
+            "number": 459,
+            "definition": "*"
+        },
+        "detect": {
+            "number": 460,
+            "definition": "*"
+        },
+        "blindfolded": {
+            "number": 461,
+            "definition": "*"
+        },
+        "basically": {
+            "number": 462,
+            "definition": "*"
+        },
+        "squints": {
+            "number": 463,
+            "definition": "*"
+        },
+        "s'mores": {
+            "number": 464,
+            "definition": "*"
+        },
+        "clobbered": {
+            "number": 465,
+            "definition": "*"
+        },
+        "relative": {
+            "number": 466,
+            "definition": "*"
+        },
+        "cringed": {
+            "number": 467,
+            "definition": "*"
+        },
+        "drone": {
+            "number": 468,
+            "definition": "*"
+        },
+        "rattled": {
+            "number": 469,
+            "definition": "*"
+        },
+        "indie": {
+            "number": 470,
+            "definition": "*"
+        },
+        "eyesore": {
+            "number": 471,
+            "definition": "*"
+        },
+        "playlist": {
+            "number": 472,
+            "definition": "*"
+        },
+        "throat": {
+            "number": 473,
+            "definition": "*"
+        },
+        "hull": {
+            "number": 474,
+            "definition": "*"
+        },
+        "outright": {
+            "number": 475,
+            "definition": "*"
+        },
+        "squabbling": {
+            "number": 476,
+            "definition": "*"
+        },
+        "scuba": {
+            "number": 477,
+            "definition": "*"
+        },
+        "trickster": {
+            "number": 478,
+            "definition": "*"
+        },
+        "glib": {
+            "number": 479,
+            "definition": "*"
+        },
+        "sneer": {
+            "number": 480,
+            "definition": "*"
+        },
+        "absent": {
+            "number": 481,
+            "definition": "*"
+        },
+        "texture": {
+            "number": 482,
+            "definition": "*"
+        },
+        "scuffle": {
+            "number": 483,
+            "definition": "*"
+        },
+        "irregular": {
+            "number": 484,
+            "definition": "*"
+        },
+        "savor": {
+            "number": 485,
+            "definition": "*"
+        },
+        "hedgehog": {
+            "number": 486,
+            "definition": "*"
+        },
+        "stoats": {
+            "number": 487,
+            "definition": "*"
+        },
+        "talons": {
+            "number": 488,
+            "definition": "*"
+        },
+        "inclined": {
+            "number": 489,
+            "definition": "*"
+        },
+        "wardrobe": {
+            "number": 490,
+            "definition": "*"
+        },
+        "revved": {
+            "number": 491,
+            "definition": "*"
+        },
+        "dire": {
+            "number": 492,
+            "definition": "*"
+        },
+        "masthead": {
+            "number": 493,
+            "definition": "*"
+        },
+        "vibrant": {
+            "number": 494,
+            "definition": "*"
+        },
+        "wizard": {
+            "number": 495,
+            "definition": "*"
+        },
+        "nudged": {
+            "number": 496,
+            "definition": "*"
+        },
+        "Leghorn": {
+            "number": 497,
+            "definition": "*"
+        },
+        "shrine": {
+            "number": 498,
+            "definition": "*"
+        },
+        "Jamestown": {
+            "number": 499,
+            "definition": "*"
+        },
+        "pineapple": {
+            "number": 500,
+            "definition": "*"
+        },
+        "crockery": {
+            "number": 501,
+            "definition": "*"
+        },
+        "gauze": {
+            "number": 502,
+            "definition": "*"
+        },
+        "exception": {
+            "number": 503,
+            "definition": "*"
+        },
+        "cavity": {
+            "number": 504,
+            "definition": "*"
+        },
+        "Neptune": {
+            "number": 505,
+            "definition": "*"
+        },
+        "notification": {
+            "number": 506,
+            "definition": "*"
+        },
+        "ogre": {
+            "number": 507,
+            "definition": "*"
+        },
+        "simplicity": {
+            "number": 508,
+            "definition": "*"
+        },
+        "lavished": {
+            "number": 509,
+            "definition": "*"
+        },
+        "archduke": {
+            "number": 510,
+            "definition": "*"
+        },
+        "dingoes": {
+            "number": 511,
+            "definition": "*"
+        },
+        "passersby": {
+            "number": 512,
+            "definition": "*"
+        },
+        "nada": {
+            "number": 513,
+            "definition": "*"
+        },
+        "Juneteenth": {
+            "number": 514,
+            "definition": "*"
+        },
+        "parsnips": {
+            "number": 515,
+            "definition": "*"
+        },
+        "curtains": {
+            "number": 516,
+            "definition": "*"
+        },
+        "adorned": {
+            "number": 517,
+            "definition": "*"
+        },
+        "loneliness": {
+            "number": 518,
+            "definition": "*"
+        },
+        "caverns": {
+            "number": 519,
+            "definition": "*"
+        },
+        "novice": {
+            "number": 520,
+            "definition": "*"
+        },
+        "invasions": {
+            "number": 521,
+            "definition": "*"
+        },
+        "dedicated": {
+            "number": 522,
+            "definition": "*"
+        },
+        "symbol": {
+            "number": 523,
+            "definition": "*"
+        },
+        "reduce": {
+            "number": 524,
+            "definition": "*"
+        },
+        "destination": {
+            "number": 525,
+            "definition": "*"
+        },
+        "ostriches": {
+            "number": 526,
+            "definition": "*"
+        },
+        "grudgingly": {
+            "number": 527,
+            "definition": "*"
+        },
+        "canopy": {
+            "number": 528,
+            "definition": "*"
+        },
+        "scrawny": {
+            "number": 529,
+            "definition": "*"
+        },
+        "classified": {
+            "number": 530,
+            "definition": "*"
+        },
+        "telescope": {
+            "number": 531,
+            "definition": "*"
+        },
+        "fidgeting": {
+            "number": 532,
+            "definition": "*"
+        },
+        "mulberry": {
+            "number": 533,
+            "definition": "*"
+        },
+        "surrounded": {
+            "number": 534,
+            "definition": "*"
+        },
+        "associated": {
+            "number": 535,
+            "definition": "*"
+        },
+        "furthermore": {
+            "number": 536,
+            "definition": "*"
+        },
+        "weird": {
+            "number": 537,
+            "definition": "*"
+        },
+        "dependable": {
+            "number": 538,
+            "definition": "*"
+        },
+        "summit": {
+            "number": 539,
+            "definition": "*"
+        },
+        "conkers": {
+            "number": 540,
+            "definition": "*"
+        },
+        "mutual": {
+            "number": 541,
+            "definition": "*"
+        },
+        "dormitories": {
+            "number": 542,
+            "definition": "*"
+        },
+        "tuxedo": {
+            "number": 543,
+            "definition": "*"
+        },
+        "decimal": {
+            "number": 544,
+            "definition": "*"
+        },
+        "alibi": {
+            "number": 545,
+            "definition": "*"
+        },
+        "orientation": {
+            "number": 546,
+            "definition": "*"
+        },
+        "inlaid": {
+            "number": 547,
+            "definition": "*"
+        },
+        "cobblestone": {
+            "number": 548,
+            "definition": "*"
+        },
+        "devious": {
+            "number": 549,
+            "definition": "*"
+        },
+        "sardine": {
+            "number": 550,
+            "definition": "*"
+        },
+        "contraption": {
+            "number": 551,
+            "definition": "*"
+        },
+        "technique": {
+            "number": 552,
+            "definition": "*"
+        },
+        "flaxen": {
+            "number": 553,
+            "definition": "*"
+        },
+        "triplicate": {
+            "number": 554,
+            "definition": "*"
+        },
+        "emboldened": {
+            "number": 555,
+            "definition": "*"
+        },
+        "Javas": {
+            "number": 556,
+            "definition": "*"
+        },
+        "biome": {
+            "number": 557,
+            "definition": "*"
+        },
+        "Wales": {
+            "number": 558,
+            "definition": "*"
+        },
+        "Avalon": {
+            "number": 559,
+            "definition": "*"
+        },
+        "corridor": {
+            "number": 560,
+            "definition": "*"
+        },
+        "cardigan": {
+            "number": 561,
+            "definition": "*"
+        },
+        "columns": {
+            "number": 562,
+            "definition": "*"
+        },
+        "cubicle": {
+            "number": 563,
+            "definition": "*"
+        },
+        "interjected": {
+            "number": 564,
+            "definition": "*"
+        },
+        "withered": {
+            "number": 565,
+            "definition": "*"
+        },
+        "cambric": {
+            "number": 566,
+            "definition": "*"
+        },
+        "hackles": {
+            "number": 567,
+            "definition": "*"
+        },
+        "faltered": {
+            "number": 568,
+            "definition": "*"
+        },
+        "Lincoln": {
+            "number": 569,
+            "definition": "*"
+        },
+        "granite": {
+            "number": 570,
+            "definition": "*"
+        },
+        "radiation": {
+            "number": 571,
+            "definition": "*"
+        },
+        "wattles": {
+            "number": 572,
+            "definition": "*"
+        },
+        "tartan": {
+            "number": 573,
+            "definition": "*"
+        },
+        "surveyed": {
+            "number": 574,
+            "definition": "*"
+        },
+        "emitting": {
+            "number": 575,
+            "definition": "*"
+        },
+        "preened": {
+            "number": 576,
+            "definition": "*"
+        },
+        "wretched": {
+            "number": 577,
+            "definition": "*"
+        },
+        "contorted": {
+            "number": 578,
+            "definition": "*"
+        },
+        "charlotte": {
+            "number": 579,
+            "definition": "*"
+        },
+        "elation": {
+            "number": 580,
+            "definition": "*"
+        },
+        "expanse": {
+            "number": 581,
+            "definition": "*"
+        },
+        "chai": {
+            "number": 582,
+            "definition": "*"
+        },
+        "metropolis": {
+            "number": 583,
+            "definition": "*"
+        },
+        "mousse": {
+            "number": 584,
+            "definition": "*"
+        },
+        "contessa": {
+            "number": 585,
+            "definition": "*"
+        },
+        "acutely": {
+            "number": 586,
+            "definition": "*"
+        },
+        "granules": {
+            "number": 587,
+            "definition": "*"
+        },
+        "pedestals": {
+            "number": 588,
+            "definition": "*"
+        },
+        "wreaked": {
+            "number": 589,
+            "definition": "*"
+        },
+        "renowned": {
+            "number": 590,
+            "definition": "*"
+        },
+        "colleagues": {
+            "number": 591,
+            "definition": "*"
+        },
+        "invigorating": {
+            "number": 592,
+            "definition": "*"
+        },
+        "sudoku": {
+            "number": 593,
+            "definition": "*"
+        },
+        "dutifully": {
+            "number": 594,
+            "definition": "*"
+        },
+        "mournful": {
+            "number": 595,
+            "definition": "*"
+        },
+        "professional": {
+            "number": 596,
+            "definition": "*"
+        },
+        "exerts": {
+            "number": 597,
+            "definition": "*"
+        },
+        "arid": {
+            "number": 598,
+            "definition": "*"
+        },
+        "deceptively": {
+            "number": 599,
+            "definition": "*"
+        },
+        "sustenance": {
+            "number": 600,
+            "definition": "*"
+        },
+        "reflexology": {
+            "number": 601,
+            "definition": "*"
+        },
+        "intentionally": {
+            "number": 602,
+            "definition": "*"
+        },
+        "cocoon": {
+            "number": 603,
+            "definition": "*"
+        },
+        "motley": {
+            "number": 604,
+            "definition": "*"
+        },
+        "fetlocks": {
+            "number": 605,
+            "definition": "*"
+        },
+        "ranchero": {
+            "number": 606,
+            "definition": "*"
+        },
+        "intolerance": {
+            "number": 607,
+            "definition": "*"
+        },
+        "gluten": {
+            "number": 608,
+            "definition": "*"
+        },
+        "pulverized": {
+            "number": 609,
+            "definition": "*"
+        },
+        "mystified": {
+            "number": 610,
+            "definition": "*"
+        },
+        "swankiest": {
+            "number": 611,
+            "definition": "*"
+        },
+        "clouting": {
+            "number": 612,
+            "definition": "*"
+        },
+        "demeanor": {
+            "number": 613,
+            "definition": "*"
+        },
+        "mallet": {
+            "number": 614,
+            "definition": "*"
+        },
+        "Singapore": {
+            "number": 615,
+            "definition": "*"
+        },
+        "disembodied": {
+            "number": 616,
+            "definition": "*"
+        },
+        "Korea": {
+            "number": 617,
+            "definition": "*"
+        },
+        "aisles": {
+            "number": 618,
+            "definition": "*"
+        },
+        "unsportsmanlike": {
+            "number": 619,
+            "definition": "*"
+        },
+        "ensnarement": {
+            "number": 620,
+            "definition": "*"
+        },
+        "morbidity": {
+            "number": 621,
+            "definition": "*"
+        },
+        "proctors": {
+            "number": 622,
+            "definition": "*"
+        },
+        "trodden": {
+            "number": 623,
+            "definition": "*"
+        },
+        "torturous": {
+            "number": 624,
+            "definition": "*"
+        },
+        "referral": {
+            "number": 625,
+            "definition": "*"
+        },
+        "aerials": {
+            "number": 626,
+            "definition": "*"
+        },
+        "surgeon": {
+            "number": 627,
+            "definition": "*"
+        },
+        "Judaism": {
+            "number": 628,
+            "definition": "*"
+        },
+        "stalemate": {
+            "number": 629,
+            "definition": "*"
+        },
+        "thoroughfare": {
+            "number": 630,
+            "definition": "*"
+        },
+        "transgressions": {
+            "number": 631,
+            "definition": "*"
+        },
+        "abdomen": {
+            "number": 632,
+            "definition": "*"
+        },
+        "appeasement": {
+            "number": 633,
+            "definition": "*"
+        },
+        "liability": {
+            "number": 634,
+            "definition": "*"
+        },
+        "penchant": {
+            "number": 635,
+            "definition": "*"
+        },
+        "propensity": {
+            "number": 636,
+            "definition": "*"
+        },
+        "instinctive": {
+            "number": 637,
+            "definition": "*"
+        },
+        "infectious": {
+            "number": 638,
+            "definition": "*"
+        },
+        "Minnesota": {
+            "number": 639,
+            "definition": "*"
+        },
+        "advesity": {
+            "number": 640,
+            "definition": "*"
+        },
+        "convictions": {
+            "number": 641,
+            "definition": "*"
+        },
+        "intestine": {
+            "number": 642,
+            "definition": "*"
+        },
+        "discriminating": {
+            "number": 643,
+            "definition": "*"
+        },
+        "exile": {
+            "number": 644,
+            "definition": "*"
+        },
+        "lineage": {
+            "number": 645,
+            "definition": "*"
+        },
+        "coaxing": {
+            "number": 646,
+            "definition": "*"
+        },
+        "permanence": {
+            "number": 647,
+            "definition": "*"
+        },
+        "larkspur": {
+            "number": 648,
+            "definition": "*"
+        },
+        "drudgery": {
+            "number": 649,
+            "definition": "*"
+        },
+        "ransacked": {
+            "number": 650,
+            "definition": "*"
+        }
+    }
+}

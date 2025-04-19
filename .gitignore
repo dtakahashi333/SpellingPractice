@@ -1,0 +1,83 @@
+# Xcode
+DerivedData/
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+
+# SwiftPM
+.build/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+Carthage/DerivedData/
+
+# Accio
+Dependencies/
+.accio/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Archives
+*.xcarchive
+
+# xcframeworks
+*.xcframework
+
+# Other
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# SwiftLint
+.swiftlint.yml
+.swiftlint.json
+
+# Xcode Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# SPX (Xcode cloud)
+.xcresult/
+*.xcresult
+*.xcarchive
+
+# macOS Folder Metadata
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Local config
+*.local
+*.env
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.lock
