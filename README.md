@@ -7,6 +7,8 @@ https://github.com/Carthage/Carthage?tab=readme-ov-file#quick-start
 https://github.com/Carthage/Carthage?tab=readme-ov-file#adding-frameworks-to-an-application
 
 Download DLRadioButton and SwiftIconFont by "carthage update --no-build"
+https://github.com/DavydLiu/DLRadioButton
+https://github.com/segecey/SwiftIconFont
 
 Open Carthage/Checkouts/DLRadioButton (and Carthage/Checkouts/SwiftIconFont) via Xcode.
 
